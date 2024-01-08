@@ -1,6 +1,6 @@
 <h1>vollmed-api-alura</h1>
 
-<h2>Tecnologias:</h2>
+<h2>Technologies: /h2>
 <p>▪️ Spring Boot 3</p>
 <p>▪️ Java 17</p>
 <p>▪️ Lombok</p>
@@ -9,11 +9,11 @@
 <p>▪️ Maven</p>
 <p>▪️ Insomnia</p>
 
-<h2>Objetivos:</h2>
-<p>▪️ Desenvolvimento de uma API Rest</p>
+<h2>Objectives:</h2>
+<p>▪️ Development of a Rest API</p>
 <p>▪️ CRUD (Create, Read, Update e Delete)</p>
-<p>▪️ Validações</p>
-<p>▪️ Paginação e ordenação</p>
+<p>▪️ Validators</p>
+<p>▪️ Paginator and ordernation</p>
 
-<h2>Instrutor:</h2>
+<h2>Instructor:</h2>
 <p>Rodrigo Ferreira</p>
