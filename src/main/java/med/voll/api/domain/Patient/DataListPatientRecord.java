@@ -1,6 +1,4 @@
-package med.voll.api.Patient;
-
-import med.voll.api.doctor.Doctor;
+package med.voll.api.domain.Patient;
 
 public record DataListPatientRecord(
         Long id,
