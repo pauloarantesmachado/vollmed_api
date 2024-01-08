@@ -1,6 +1,6 @@
 <h1>vollmed-api-alura</h1>
 
-<h2>Technologies: /h2>
+<h2>Technologies: </h2>
 <p>▪️ Spring Boot 3</p>
 <p>▪️ Java 17</p>
 <p>▪️ Lombok</p>
